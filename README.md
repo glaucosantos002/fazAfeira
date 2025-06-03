@@ -98,6 +98,36 @@ https://www.youtube.com/watch?v=h_50yc1niIY
 </b>
 </p>
 
+<h2 id="technologies">💻 Tecnologias (Technologies)</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,git,github,html,js,nodejs,react,ts,vscode,yarn" />
+  </a>
+</p>
+
+<p align="center">
+-  CSS  -  HTML5  -  Git | GitHub  -  JavaScript  -  NodeJS  -  REACT | REACT-Native  -  TypeScript  -  VSCode  -  Yarn
+</p>
+
+<h2 id="started">🚀 Começando (Getting started)</h2>
+
+Descrição de como usar o projeto local. (Describe how to run your project locally)
+
+<h3i id="prerequisites">📎Pré-Requisitos (Prerequisites)</h3>
+
+- [NodeJS](https://github.com/)
+- [Yarn](https://github.com)
+
+<h2 id="cloning">🌀 Clonando (Cloning)</h2>
+
+git clone https://github.com/glaucosantos002/fazAfeira.git
+
+<h2 id="terminal">💻 Terminal no VSCode(Terminal in VSCode)</h2>
+
+- npm install 
+- npm install expo
+- npx expo start
+
 <h2 id="colab">🤝 COLABORADORES</h2>
 
 Adradecimentos especiasis para os contrinuintes deste projeto. Special thank you for all people that contributed for this project.
