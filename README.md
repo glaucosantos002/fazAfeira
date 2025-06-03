@@ -101,7 +101,7 @@ https://www.youtube.com/watch?v=h_50yc1niIY
 <h2 id="technologies">💻 Tecnologias (Technologies)</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,git,github,html,js,nodejs,react,ts,vscode,yarn" />
+    <img src="https://skillicons.dev/icons?i=css,git,github,html,js,nodejs,react,ts,vscode,yarn" />
   </a>
 </p>
 
